@@ -1,7 +1,7 @@
 spring:
   messages:
     encoding: UTF-8
-    basename: messages
+    basename: message/messages
 
 server:
   port: 9001
